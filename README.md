@@ -1,2 +1,2 @@
 # gobarber
-A barber shop application made in Rocketseat bootcamp, where the user can view the service providers, make an appointment and update their registration data.
+Aplicação de agendamento de serviços de barbearia, feita durante o bootcamp GoStack 13 ministrado pela Rocketseat.
