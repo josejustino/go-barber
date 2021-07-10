@@ -5,10 +5,10 @@
 
 <div align="center" style="margin: 20px;">
 
-[![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/jvictorfarias/gobarber/LICENSE.md)
-![GitHub last commit](https://img.shields.io/github/last-commit/jvictorfarias/gobarber?color=green&style=flat-square)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/30e0ef7a3c2146498723e53c9fcaeda7)](https://www.codacy.com/manual/jvictorfarias/GoBarber_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jvictorfarias/GoBarber&amp;utm_campaign=Badge_Grade)
-![GitHub top language](https://img.shields.io/github/languages/top/jvictorfarias/gobarber?style=flat-square)
+[![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/josejustino/gobarber/LICENSE.md)
+![GitHub last commit](https://img.shields.io/github/last-commit/josejustino/gobarber?color=green&style=flat-square)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/30e0ef7a3c2146498723e53c9fcaeda7)](https://www.codacy.com/manual/josejustino/GoBarber_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josejustino/GoBarber&amp;utm_campaign=Badge_Grade)
+![GitHub top language](https://img.shields.io/github/languages/top/josejustino/gobarber?style=flat-square)
 
 
 <p align="center" >
